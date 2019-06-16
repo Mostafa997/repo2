@@ -1,2 +1,2 @@
-8MyApp
+_MyApp_
 this is my app
